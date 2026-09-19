@@ -1,16 +1,13 @@
-## Hi there 👋
+## Vikram M A A
 
-<!--
-**VikramMAA/VikramMAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital marketing and go-to-market, ten years of it — SEO, AI search,
+performance marketing, content and lead generation.
 
-Here are some ideas to get you started:
+I write about all of it at **[vikramhere.com](https://vikramhere.com)**,
+including the things that didn't work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Bengaluru, India.
+
+- Writing → [vikramhere.com/blog](https://vikramhere.com/blog/)
+- What I work on → [vikramhere.com/expertise](https://vikramhere.com/expertise/)
+- LinkedIn → [vikram-m-a-a](https://www.linkedin.com/in/vikram-m-a-a/)
